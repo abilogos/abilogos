@@ -1,16 +1,21 @@
-<h3> &lt;HelloWorld  name="Ali Hakami" data-alias="Abi Logos" ng-role="developer" &gt;</h3>
+<h3> &lt;intro id="Ali Hakami" data-alias="Abi Logos" ng-role="developer" lang="en" &gt;</h3>
 
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-I am an Analytical, Experienced & self-motivated Software Developer focusing on Web🕸️ development. 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+I am an Analytical, Experienced & Self-motivated Software Developer focusing on Web🕸️ development. 
 
-I have started web development when I was a university senior student using PHP since 2013.
-However I have some experience with Java EE & ASP.NET, I prefer to use PHP for Back-end
-Development. Although I am familiar with Node.js & Expressjs.
+I have started web development when I was a university senior student since 2013.
 
-I have passions for learning & working with edge technologies and tools. I am seeing myself trying to discover how things works & how I can improve them.
-I am good at speech and have persuasive character. 
+<h3> &lt;/intro&gt;  </h3>
 
-<h3> &lt;/HelloWorld&gt;  </h3>
+<h3> &lt;geekCode enc="bin" &gt;</h3>
+
+```
+-----BEGIN GEEK CODE BLOCK-----
+Version: 3.1
+GCS/P/S d-(---) s+:>- a C++++$ UL P L++>++++ E- W+++$ N+ !o K- w+ !O M !V PS++ PE++ Y+ PGP+ t- 5? !X R- tv b+ DI+ D- G e++ h- r+++ y+++
+------END GEEK CODE BLOCK------
+```
+<h3> &lt;/geekCode&gt;  </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-alihakami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-hakami-abilogos/)](https://tr.linkedin.com/in/ali-hakami-abilogos?trk=profile-badge) 
 [![Gmail Badge](https://img.shields.io/badge/-dev.abi.log@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.abi.log@gmail.com)](mailto:dev.abi.log@gmail.com)
@@ -19,7 +24,7 @@ I am good at speech and have persuasive character.
 [![Abilogos's GitHub stats](https://github-readme-stats.vercel.app/api?username=abilogos&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 I’m currently working on [Image Line Inc](https://image-line.com)
-🌱 I’m currently learning React.js + Logics
+🌱 I’m currently learning Logics/Mathmatics + Rust
 <!--🏢 My [Career Github](https://github.com/Abi-Hakami)-->
 
 <!--
