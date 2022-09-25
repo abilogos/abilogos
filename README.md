@@ -36,6 +36,8 @@ Version: 3.1
 GCS/P/S d-(---) s+:>- a C++++$ UL P L++>++++ E- W+++$ N+ !o K- w+ !O M !V PS++ PE++ Y+ PGP+ t- 5? !X R- tv b+ DI+ D- G e++ h- r+++ y+++
 ------END GEEK CODE BLOCK------
 ```
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <h3> &lt;/geekCode&gt;  </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-alihakami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-hakami-abilogos/)](https://tr.linkedin.com/in/ali-hakami-abilogos?trk=profile-badge) 
