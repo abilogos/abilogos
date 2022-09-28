@@ -91,4 +91,5 @@ She sent them her **Dev** prophets, to rears the **lusers**.
 🌱 I’m currently learning Logics/Mathmatics + Rust
 <!--🏢 My [Career Github](https://github.com/Abi-Hakami)-->
 
+![abilogosWatcherGithub](https://count.getloli.com/get/@:abilogosWatcherGithub?theme=moeboorumoebooru)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
