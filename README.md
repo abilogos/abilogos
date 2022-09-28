@@ -29,66 +29,31 @@ I am an Analytical, Experienced & Self-motivated Software Developer focusing on 
 
 I have started web development when I was a university senior student since 2013.
 
-[![Linkedin Badge](https://img.shields.io/badge/-alihakami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-hakami-abilogos/)](https://tr.linkedin.com/in/ali-hakami-abilogos?trk=profile-badge) 
-[![Gmail Badge](https://img.shields.io/badge/-dev.abi.log@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.abi.log@gmail.com)](mailto:dev.abi.log@gmail.com)
-
-
-## The Story
-
-
-### Disclaimer
-It's just a funny story - not intended to be offensive or insulting any one or group.
-
-I Do respect all of the users.
-
-if in the course of story, you fill uncomfortable, please skip the **story** and got to the next section cause I dont want to make you sad.
-
-### Intro دیباچه
-A lot of people starting with a **Hello World!**. That exclamation mark matters,so an starting point.
-
-it doesn't matter if whose gonna take the responsibilty. a console.log, print, printf, cout<< ,echo ....
-
-it will make a bound between the *noobi* and the *words* he is commanding so.
-
-these words aitn ordinary words, they are are magical. they make somesthing to happen.
-
-so after a while the noob got addicted to these words and the **language** which cause this magical effect.
-
-it's a kind a mushroom that nobody told you about its addiction.
-
-after a while, s/he may turn into a vampier who is awake all the nights, coding for a little more data-blood to flow.
-
-people usually call those vampier as a `geek`.
-
-Mine was diffrent, cause I have started with an `onclick` using `actionScript` ...
-
-### Logos λόγος
-
-Whatever, the magic is within the words.
-
-> In the beginning was the Logos, and the logos was with God, and the Logos was God. (John 1:1)
-
-So this magic words was from the begining,
-
-But at before The Industrial Ages, no one either john it self could not speak with `C` or even `assembly` 
-
-These languages has been vanished from The Babylon,
-
-Now, The God give the people another chance.
-
-She sent them her **Dev** prophets, to rears the **lusers**.
-
-
-## Third-party plugins usually everyone add to their README. (Fomo breaker)
-
-[![Abilogos's GitHub stats](https://github-readme-stats.vercel.app/api?username=abilogos&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin][10.2]][2]
+[![StackOverflow][10.4]][4]
+[![Gmail][10.7]][7]
 
 🔭 I’m currently working on [Image Line Inc](https://image-line.com)
 🌱 I’m currently learning Logics/Mathmatics + Rust
 <!--🏢 My [Career Github](https://github.com/Abi-Hakami)-->
 
-![abilogosWatcherGithub](https://count.getloli.com/get/@:abilogosWatcherGithub?theme=moeboorumoebooru)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+## Stats
+
+![](https://komarev.com/ghpvc/?username=abilogos&color=orange)
 
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+
+<!-- Links -->
+[2]: https://www.linkedin.com/in/ali-hakami-abilogos/
+[4]: https://stackoverflow.com/users/9287628/abilogos
+[7]: mailto:dev.abi.log@gmail.com
+
+[10.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white
+[10.2]: https://img.shields.io/badge/Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white
+[10.3]: https://img.shields.io/badge/Codepen-000000?style=flat-square&logo=codepen&logoColor=white
+[10.4]: https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white
+[10.5]: https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white
+[10.6]: https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white
+[10.7]: https://img.shields.io/badge/-dev.abi.log@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.abi.log@gmail.com
