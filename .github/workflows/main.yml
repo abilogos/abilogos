@@ -17,3 +17,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Istanbul
           config_display: column
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_activity: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 3
+          plugin_code: yes
+          plugin_code_languages: javascript, typescript, php
+          plugin_code_load: 256
+          plugin_code_lines: 16
