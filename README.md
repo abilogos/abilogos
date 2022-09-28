@@ -19,19 +19,15 @@
 |_|   \__,_|\__, |\___|
             |___/      
 
-```
-
-I am an Analytical, Experienced & Self-motivated Software Developer focusing on Web🕸️ development. 
-
-I have started web development when I was a university senior student since 2013.
-
-
-```
 -----BEGIN GEEK CODE BLOCK-----
 Version: 3.1
 GCS/P/S d-(---) s+:>- a C++++$ UL P L++>++++ E- W+++$ N+ !o K- w+ !O M !V PS++ PE++ Y+ PGP+ t- 5? !X R- tv b+ DI+ D- G e++ h- r+++ y+++
 ------END GEEK CODE BLOCK------
 ```
+
+I am an Analytical, Experienced & Self-motivated Software Developer focusing on Web🕸️ development. 
+
+I have started web development when I was a university senior student since 2013.
 
 [![Linkedin Badge](https://img.shields.io/badge/-alihakami-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-hakami-abilogos/)](https://tr.linkedin.com/in/ali-hakami-abilogos?trk=profile-badge) 
 [![Gmail Badge](https://img.shields.io/badge/-dev.abi.log@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.abi.log@gmail.com)](mailto:dev.abi.log@gmail.com)
@@ -93,3 +89,6 @@ She sent them her **Dev** prophets, to rears the **lusers**.
 
 ![abilogosWatcherGithub](https://count.getloli.com/get/@:abilogosWatcherGithub?theme=moeboorumoebooru)
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
