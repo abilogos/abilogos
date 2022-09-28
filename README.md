@@ -91,4 +91,4 @@ She sent them her **Dev** prophets, to rears the **lusers**.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
