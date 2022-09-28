@@ -19,7 +19,6 @@ jobs:
           config_display: large
           plugin_achievements: yes
           plugin_achievements_secrets: yes
-          plugin_activity: yes
           plugin_calendar: yes
           plugin_calendar_limit: 3
           plugin_isocalendar: yes
@@ -38,7 +37,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_gists: yes
-          plugin_habits: yes
           plugin_lines: yes
           plugin_lines_history_limit: 10
           plugin_traffic: yes  
